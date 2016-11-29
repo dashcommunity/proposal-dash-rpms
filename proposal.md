@@ -28,6 +28,9 @@ make them available. I have also written installation configuration instruction
 tailered to these builds and these platforms. But there is a lot more to be done
 to really professionalize the product for this family of operating systems.
 
+**Who am I?** I am dAgrarian (forums), taw00 (github), t0dd and agrarian (other
+places).
+
 ### Scope
 
 I build and test on a number of local virtual and VPS instances for both stable
