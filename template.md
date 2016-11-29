@@ -7,12 +7,12 @@ for the Fedora, CentOS, and RHEL linux platforms.
 
 ###### Description
 
-This is a request to fund the ongoing building, packaging, and delivery of Dash
-Core code for the premier family of linux operating systems: Red Hat -- Fedora,
-CentOS and RHEL. I have been building packages for this line of operating
-systems for approximately 8 months now and will continue to do so, proposal
-accepted or not. This is a plea to help fund my efforts as I improve and expand
-the scope of what I am already doing.
+This is a request to fund the ongoing process for building, packaging, and
+delivery of Dash Core code for the premier family of linux operating systems:
+Red Hat -- Fedora, CentOS and RHEL. I have been building packages for this line
+of operating systems for approximately 8 months now and will continue to do so,
+proposal accepted or not. This is a plea to help fund my efforts as I improve
+and expand the scope of what I am already doing.
 
 *...more detail...*
 
