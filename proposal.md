@@ -106,7 +106,7 @@ Above we ballparked $2000 per month on the open market or 226 DASH / month (as
 of this writing, $8.84/DASH). But, for now, I am really just asking for an
 offsetting donation of DASH for my time. So I propose...
 
-##### Terms
+#### Terms
 
 * **1000 DASH total**
  * **166.66666667 DASH per month**
