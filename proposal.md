@@ -30,8 +30,8 @@ to really professionalize the product for this family of operating systems.
 
 ### Scope
 
-I build (and test on a number of local virtual and VPS instances) for both
-stable (currently 0.12.0.58) and testnet (0.12.1) Dash Core. This will continue
+I build and test on a number of local virtual and VPS instances for both stable
+(currently 0.12.0.58) and testnet (0.12.1) Dash Core. This will continue
 indefinitely and expand in scope.
 
 ##### Deliverables
