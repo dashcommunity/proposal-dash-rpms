@@ -1,3 +1,5 @@
+# Proposal<br />Dash Core for Fedora, CentOS, and RHEL
+
 Dash Core software professionally packaged, tested, maintained, and delivered
 for the Fedora, CentOS, and RHEL linux platforms.
 
@@ -39,10 +41,10 @@ indefinitely and expand in scope.
 
 ##### Deliverables
 
-* Source packages: https://github.com/taw00/dashcore-srpms
-* Binary packages: https://drive.google.com/open?id=0B0BT-eTEFVLORG03ck1tem1idEE
-* General usage instruction: https://drive.google.com/open?id=18qwFkDKfyZhvecuR5kxiIKmPsjPZjFhRY0EsfHYbD7I
-* Tailored testnet masternode guidance: https://gist.github.com/taw00/e978f862ee1ad66722e16bcc8cf18ca5
+* Source packages: <https://github.com/taw00/dashcore-srpms>
+* Binary packages: <https://drive.google.com/open?id=0B0BT-eTEFVLORG03ck1tem1idEE>
+* General usage instruction: <https://drive.google.com/open?id=18qwFkDKfyZhvecuR5kxiIKmPsjPZjFhRY0EsfHYbD7I>
+* Tailored testnet masternode guidance: <https://gist.github.com/taw00/e978f862ee1ad66722e16bcc8cf18ca5>
 * You can find many of my announcements in the Dash Forums such as [this one](https://www.dash.org/forum/threads/12-1-testnet-testing-phase-two-ignition.10818/page-8#post-108491), [this one](https://www.dash.org/forum/threads/testnet-masternode-guide-for-fedora-centos-rhel.11950/), and [this one](https://www.dash.org/forum/threads/12-1-testnet-testing-phase-two-ignition.10818/page-6#post-106852) (I don't announce every test build)
 
 Aspirationally, I strive to...
@@ -116,4 +118,7 @@ After 6 months, we will examine at how things are going and likely renew with a 
 
 ### Closing
 
-The Red Hat family of linux distributions needs professional build, testing, and packaging. I am providing some of that now and want to continue doing that well into the future. The goodwill of the community is compensation enough, but if you can find it in you to help monetarily, it would be most welcome. Thank you!
+The Red Hat family of linux distributions needs professional build, testing, and
+packaging. I am providing some of that now and want to continue doing that well
+into the future. The goodwill of the community is compensation enough, but if
+you can find it in you to help monetarily, it would be most welcome. Thank you!
