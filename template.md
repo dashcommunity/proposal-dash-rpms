@@ -14,7 +14,7 @@ operating systems for approximately 8 months now and will continue to do so,
 proposal accepted or not. This is a plea to help fund my efforts as I improve
 and expand the scope of what I am already doing.
 
-...more detail...
+*...more detail...*
 
 A mature software application ideally needs mature packaging for the various
 permutations of operating system platforms on which it runs. Examples: for
