@@ -58,8 +58,9 @@ member of that team.
 
 I hope to eventually fold the packaging into to Fedora's more formal release
 engineering infrastructure and have Dash Core become automagically available to,
-at least, all Fedora users. Finally, the goal would be to have this process
-taken over by full-time Dash Core Team personnel, though staying involved.
+at least, all Fedora users. Eventually, the goal would be to integrate fully
+into the Dash Core Team development and release engineering process, though with
+my continued participation.
 
 ##### Milestones
 
