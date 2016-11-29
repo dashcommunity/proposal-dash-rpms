@@ -95,12 +95,13 @@ experts and automated professional testing. Additionally, that will expand the
 supportable architectures for Dash Core (I only test 64 Intel), but that is a
 less critical side benefit. Local personal testing will continue though.
 
-Most of my cost is time. Sometimes, *a lot* of time.
+**Most of my cost is time. Sometimes, *a lot* of time.**
 
 * Hard costs:
   - Personal developer laptop: $0 for now
   - VPS instances for testing: 3 x $5 per month
 * Time: est. ave. 10 hours a week at $50 per hour, let's call it $2000 per month
+
 
 ##### Terms
 
@@ -108,11 +109,11 @@ Above we ballparked $2000 per month on the open market or 226 DASH / month (as
 of this writing, $8.84/DASH). But, for now, I am really just asking for an
 offsetting donation of DASH for my time. So I propose...
 
-Terms:
+***Proposed terms:***
 
-* 1000 DASH total
- * 166.66666667 DASH per month
- * 6 months
+* **1000 DASH total**
+ * **166.66666667 DASH per month**
+ * **6 months**
 
 After 6 months, we will examine at how things are going and likely renew with a similar proposal.
 
