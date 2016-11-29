@@ -111,7 +111,7 @@ offsetting donation of DASH for my time. So I propose...
 Terms:
 
 * 1000 DASH total
- * 167 DASH per month
+ * 166.66666667 DASH per month
  * 6 months
 
 After 6 months, we will examine at how things are going and likely renew with a similar proposal.
