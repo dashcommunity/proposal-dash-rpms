@@ -3,7 +3,7 @@ for the Fedora, CentOS, and RHEL linux platforms.
 
 ### Overview
 
-This is a request to fund the ongoing process for building, packaging, and
+This is a request to fund the ongoing process of building, packaging, and
 delivery of Dash Core code for the premier family of linux operating systems:
 Red Hat -- Fedora, CentOS and RHEL. I have been building packages for this line
 of operating systems for approximately 8 months now and will continue to do so,
