@@ -25,10 +25,16 @@ predictable and easy installation for users. They pull in the dependencies they
 need without the user having to think about them, and the operating system can
 track and manage updates cleanly and efficiently.
 
+Aspirationally, there is opportunaty to have Dash Core shipped with the Fedora
+operating system by default. More or that later...
+
 Today, I developed the packaging specs, build and digitally sign packages and
 make them available. I have also written installation configuration instruction
 tailered to these builds and these platforms. But there is a lot more to be done
 to really professionalize the product for this family of operating systems.
+
+*All of this would set Dash at least on par with Bitcoin, and establish delivery
+professionalism certainly ahead of other crypto-currencies.*
 
 **Who am I?** I am dAgrarian (forums), taw00 (github), t0dd and agrarian (other
 places).
@@ -52,34 +58,36 @@ Aspirationally, I strive to...
 * Drive Dash Core into Fedora's formal release process and official repositories
 * Drive the build process into the Dash Core Team's formal release processes
 * Expand the set of packages beyond core, for example, the Electrum wallet, Sentinel, etc.
-* Make Dash Core SELinux-friendly
-* Contribute documentation as needed
+* Make Dash Core SELinux-friendly (security enhanced linux)
+* Contribute documentation as needed (see examples above)
 
 ### Schedule
 
-Testnet packaging is rebuilt and released regularly several times a week, time
-dependent. Often daily. I am in communication with the Dash Core Team, but not a
-member of that team.
+Packaging is rebuilt and released regularly (currently several times a week
+because we are testing and finalizing 12.1), time dependent. I am in
+communication with the Dash Core Team, but not a member of that team.
 
 I hope to eventually fold the packaging into to Fedora's more formal release
 engineering infrastructure and have Dash Core become automagically available to,
 at least, all Fedora users. Eventually, the goal would be to integrate fully
-into the Dash Core Team development and release engineering process, though with
-my continued participation.
+into the Dash Core Team development as well and release engineering process,
+though likely with my continued participation.
 
 ##### Milestones
 
 What is left undone is packaging and automating some of items beyond core, in
 particular and in the shorter term, building and packaging Sentinel. Also,
-perhaps, adding in items like Dashman and other community delivered tools.
+perhaps, adding in items like Dashman and other community delivered tools. A
+whole suite of tooling.
 
 Timeline and goals:
 
 * Dash Core testnet: all builds within one week of availability.
-* Dash Core stable: all builds within several days of availability.
-* Streamlining and re-org of current repositories: end of year, 2016
+* Dash Core mainnet: all builds within several days of availability.
+* Underlying OS updates: Test and release all packaged offerings in conjunction with operating system updates. Fedora, for example, issues a new release every six months.
+* Streamlining and re-org of current repositories: End of year, 2016
 * Sentinel: Q1 2017
-* Electrum: unscoped at this point.
+* Electrum: Unscoped at this point.
 * Released to Fedora official repositories: Q1 2017 -- dependent on Fedora administrative acceptance
 
 I have pored 8 months into what has been delivered already, and the project is
@@ -95,30 +103,31 @@ experts and automated professional testing. Additionally, that will expand the
 supportable architectures for Dash Core (I only test 64 Intel), but that is a
 less critical side benefit. Local personal testing will continue though.
 
-**Most of my cost is time. Sometimes, *a lot* of time.**
+**Most of my cost is time. Sometimes, a lot of time.**
 
 * Hard costs:
   - Personal developer laptop: $0 for now
   - VPS instances for testing: 3 x $5 per month
 * Time: est. ave. 10 hours a week at $50 per hour, let's call it $2000 per month
 
-
-Above we ballparked $2000 per month on the open market or 226 DASH / month (as
-of this writing, $8.84/DASH). But, for now, I am really just asking for an
-offsetting donation of DASH for my time. So I propose...
+The above calculatoin easily ballparks $2000 per month on the open market or
+approximately 215 DASH / month as of this writing. But, for now, I am really
+just asking for an offsetting donation of DASH for my time. So I propose...
 
 #### Terms
 
-* **1000 DASH total**
- * **166.66666667 DASH per month**
- * **6 months**
+* **450 DASH total**
+ * **150 DASH per month**
+ * **3 months**
 
-After 6 months, we will examine at how things are going and likely renew with a
+After 3 months, we will examine at how things are going and likely renew with a
 similar proposal.
 
 ### Closing
 
-The Red Hat family of linux distributions needs professional build, testing, and
-packaging. I am providing some of that now and want to continue doing that well
-into the future. The goodwill of the community is compensation enough, but if
-you can find it in you to help monetarily, it would be most welcome. Thank you!
+Dash Core and its corresponding suite of tooling needs to be properly supported
+on the Red Hat family of linux distributions. The software needs to be
+professional built, tested,  packaged, improved and maintained over time. I am
+providing some of that now and want to continue doing that well into the future.
+The goodwill of the community is compensation enough, but if you can find it in
+you to help monetarily, it would be most welcome. Thank you!
