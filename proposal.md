@@ -34,12 +34,12 @@ operating system by default. More on that later...
 Available today: I developed the packaging specs, build and digitally sign
 packages and make them available through automated means. I have also written
 installation configuration instruction tailered to these builds and these
-platforms. *But there is a lot more to be done to really professionalize the
-product for this family of operating systems.*
+platforms. ***But there is a lot more to be done to really professionalize the
+product for this family of operating systems.***
 
-*Such packaging and availability would set Dash on par with Bitcoin in the near
+> ***Such packaging and availability would set Dash on par with Bitcoin in the near
 term, and establish delivery professionalism certainly ahead of other
-crypto-currencies.*
+crypto-currencies.***
 
 **Who am I?** I am dAgrarian (forums), taw00 (github), t0dd and agrarian (other
 places).
@@ -58,7 +58,7 @@ indefinitely and expand in scope.
 * Tailored testnet masternode guidance: <https://gist.github.com/taw00/e978f862ee1ad66722e16bcc8cf18ca5>
 * You can find many of my announcements in the Dash Forums such as [this one](https://www.dash.org/forum/threads/12-1-testnet-testing-phase-two-ignition.10818/page-8#post-108491), [this one](https://www.dash.org/forum/threads/testnet-masternode-guide-for-fedora-centos-rhel.11950/), and [this one](https://www.dash.org/forum/threads/12-1-testnet-testing-phase-two-ignition.10818/page-6#post-106852) ***(I don't announce every test build)***
 
-Aspirationally, I strive to...
+##### Aspirationally, I strive to...
 
 * Drive Dash Core into Fedora's formal release process and official repositories
 * Drive the build process into the Dash Core Team's formal release processes
