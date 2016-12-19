@@ -119,18 +119,20 @@ less critical side benefit. Local personal testing will continue though.
 This is "release engineering" work. For those unfamiliar, release engineering is
 a full time position that does exactly what I am describing.
 
-The above calculatoin easily ballparks $2000 per month on the open market or
-approximately 215 DASH / month as of this writing. But, for now, I am really
-just asking for an offsetting donation of DASH for my time. So I propose...
+The above calculation easily ballparks $2000 per month on the open market or
+approximately 215 DASH / month as of this writing.
+
+***But, for now, I am really just asking for an offsetting donation of DASH for
+my time.<br />So I propose...***
 
 #### Terms
 
-***Three month (potentially renewing) honorarium/patronage...***
-* **225 DASH total**
- * **75 DASH per month**
- * **3 months**
+> ***Three month (potentially renewing) honorarium/patronage...***
+> * **225 DASH total**
+>  * **75 DASH per month**
+>  * **3 months**
 
-After 3 months, we will examine at how things are going and I will likely ask
+> After 3 months, we will examine at how things are going and I will likely ask
 renew with a similar proposal.
 
 ### Closing
