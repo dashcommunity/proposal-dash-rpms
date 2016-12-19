@@ -34,11 +34,13 @@ operating system by default. More on that later...
 Available today: I developed the packaging specs, build and digitally sign
 packages and make them available through automated means. I have also written
 installation configuration instruction tailered to these builds and these
-platforms. ***But there is a lot more to be done to really professionalize the
+platforms.
+
+> ***But there is a lot more to be done to really professionalize the
 product for this family of operating systems.***
 
-> ***Such packaging and availability would set Dash on par with Bitcoin in the near
-term, and establish delivery professionalism certainly ahead of other
+> ***Such packaging and availability would set Dash on par with Bitcoin in the
+near term, and establish delivery professionalism certainly ahead of other
 crypto-currencies.***
 
 **Who am I?** I am dAgrarian (forums), taw00 (github), t0dd and agrarian (other
