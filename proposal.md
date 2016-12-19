@@ -128,12 +128,12 @@ my time.<br />So I propose...***
 #### Terms
 
 > ***Three month honorarium/patronage...***
-> * **225 DASH total**
->  * **75 DASH per month**
+> * **300 DASH total**
+>  * **100 DASH per month**
 >  * **3 months**
 
 > After 3 months, we will examine at how things are going and I will likely ask
-renew with a similar proposal.
+to renew with a similar proposal.
 
 ### Closing
 
