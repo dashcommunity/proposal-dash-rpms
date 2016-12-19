@@ -59,6 +59,7 @@ indefinitely and expand in scope.
 * General usage instruction: <https://drive.google.com/open?id=18qwFkDKfyZhvecuR5kxiIKmPsjPZjFhRY0EsfHYbD7I>
 * Tailored testnet masternode guidance: <https://gist.github.com/taw00/e978f862ee1ad66722e16bcc8cf18ca5>
 * You can find many of my announcements in the Dash Forums such as [this one](https://www.dash.org/forum/threads/12-1-testnet-testing-phase-two-ignition.10818/page-8#post-108491), [this one](https://www.dash.org/forum/threads/testnet-masternode-guide-for-fedora-centos-rhel.11950/), and [this one](https://www.dash.org/forum/threads/12-1-testnet-testing-phase-two-ignition.10818/page-6#post-106852) ***(I don't announce every test build)***
+* Three month (end of cycle) status report
 
 ##### Aspirationally, I strive to...
 
@@ -122,7 +123,7 @@ This is "release engineering" work. For those unfamiliar, release engineering is
 a full time position that does exactly what I am describing.
 
 The above calculation easily ballparks $2000 per month on the open market or
-approximately 215 DASH / month as of this writing.
+approximately 202 DASH / month as of this writing.
 
 ***But, for now, I am really just asking for an offsetting donation of DASH for
 my time.<br />So I propose...***
@@ -130,8 +131,8 @@ my time.<br />So I propose...***
 #### Terms
 
 > ***Three month honorarium/patronage...***
-> * **300 DASH total**
->  * **100 DASH per month**
+> * **225 DASH total**
+>  * **75 DASH per month**
 >  * **3 months**
 
 > After 3 months, we will examine at how things are going and I will likely ask
