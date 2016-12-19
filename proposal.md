@@ -127,7 +127,7 @@ my time.<br />So I propose...***
 
 #### Terms
 
-> ***Three month (potentially renewing) honorarium/patronage...***
+> ***Three month honorarium/patronage...***
 > * **225 DASH total**
 >  * **75 DASH per month**
 >  * **3 months**
