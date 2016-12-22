@@ -118,10 +118,12 @@ less critical side benefit. Local personal testing will continue though.
 **Most of my cost is time. Sometimes, a lot of time.**
 
 ***What are my costs for these "release engineering" efforts?***
+
 * Hard costs:
   - Personal developer laptop
   - ~3 VPS instances for testing
 * Time: 10+ hours a week
+
 
 ***For now, I am really just asking for a very modest cost offset for my
 time. Therefore, I propose...***
