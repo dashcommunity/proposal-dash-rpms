@@ -65,7 +65,7 @@ indefinitely and expand in scope.
 
 ##### Aspirationally, I strive to...
 
-* Drive Dash Core into Fedora's formal release process and official repositories. ***This would be a coup for the Dash community.***
+* Drive Dash Core into Fedora's formal release process and official repositories.<br />***This would be a coup for the Dash community.***
 * Drive the build process into the Dash Core Team's formal release processes
 * Expand the set of packages beyond core, for example, the Electrum wallet, Sentinel, etc.
 * Make Dash Core [SELinux-friendly](https://en.wikipedia.org/wiki/Security-Enhanced_Linux) (security enhanced linux)
