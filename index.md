@@ -128,8 +128,8 @@ time. Therefore, I propose...***
 
 #### Terms
 
-***Three month honorarium/patronage...***
-
+> ***Three month honorarium/patronage...***<br />
+> <br />
 > **99 DASH total**<br />
 > ...**33 DASH per month**<br />
 > ...**3 months**
