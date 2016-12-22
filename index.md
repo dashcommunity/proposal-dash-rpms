@@ -8,12 +8,14 @@ linux platforms.
 
 ### Overview
 
-This is a request to fund the ongoing process of building, packaging, and
-delivery of Dash Core code for the premier family of linux operating systems:
-Red Hat -- Fedora, CentOS and RHEL. I have been building packages for this line
-of operating systems for approximately 8 months now and will continue to do so,
-proposal accepted or not. This is a plea to help fund my efforts as I improve
-and expand the scope of what I am already doing.
+This is a request to fund a very modest Dash patronage to help offset some of
+effort associated to the development and process of building, packaging,
+delivery, and maintenance of Dash Core code for the premier family of linux
+operating systems: Red Hat -- Fedora, CentOS and RHEL. I.e., "release
+engineering" for this family of operating systems. I have been building packages
+for this line of operating systems for approximately 8 months now and will
+continue to do so, proposal accepted or not. This is a plea to assist in my
+efforts as I improve and *expand* the scope of what I am already doing.
 
 *...more detail...*
 
@@ -21,23 +23,27 @@ A mature software application ideally needs mature packaging for the various
 permutations of operating system platforms on which it runs. Examples: for
 Ubuntu this means .deb (for apt-get automation), for MacOS this means .pkg, etc.
 For the Red Hat linux family of operating systems -- Fedora, CentOS, RHEL --
-this means RPM packages (.rpm).
+this means RPM packages (.rpm) and YUM/DNF repositories.
 
 The advantages are that you build these packages consistently and they allow
-predictable and easy installation for users. They pull in the dependencies they
-need without the user having to think about them, and the operating system can
-track and manage updates cleanly and efficiently.
+predictable and easy installation and update for users. Upon installation they
+pull in the dependencies they need without the user having to think about them,
+and the operating system can track and manage updates cleanly and efficiently.
 
 Aspirationally, there is opportunaty to have Dash Core shipped with the Fedora
-operating system by default. More or that later...
+operating system by default. More on that later...
 
-Today, I developed the packaging specs, build and digitally sign packages and
-make them available. I have also written installation configuration instruction
-tailered to these builds and these platforms. But there is a lot more to be done
-to really professionalize the product for this family of operating systems.
+Available today: I developed the packaging specs, build and digitally sign
+packages and make them available through automated means. I have also written
+installation configuration instruction tailered to these builds and these
+platforms.
 
-*All of this would set Dash at least on par with Bitcoin, and establish delivery
-professionalism certainly ahead of other crypto-currencies.*
+> ***But there is a lot more to be done to really professionalize the
+product for this family of operating systems.***
+
+> ***Such packaging and availability would set Dash on par with Bitcoin in the
+near term, and establish delivery professionalism certainly ahead of other
+crypto-currencies.***
 
 **Who am I?** I am dAgrarian (forums), taw00 (github), t0dd and agrarian (other
 places).
@@ -51,17 +57,18 @@ indefinitely and expand in scope.
 ##### Deliverables
 
 * Source packages: <https://github.com/taw00/dashcore-srpms>
-* Binary packages: <https://drive.google.com/open?id=0B0BT-eTEFVLORG03ck1tem1idEE>
-* General usage instruction: <https://drive.google.com/open?id=18qwFkDKfyZhvecuR5kxiIKmPsjPZjFhRY0EsfHYbD7I>
+* Binary packages: <https://keybase.pub/toddwarner/repo/dashcore/>
+* General usage instruction: <https://gist.github.com/taw00/b2382aaabb321b0cf9ce104185e1b3b7>
 * Tailored testnet masternode guidance: <https://gist.github.com/taw00/e978f862ee1ad66722e16bcc8cf18ca5>
-* You can find many of my announcements in the Dash Forums such as [this one](https://www.dash.org/forum/threads/12-1-testnet-testing-phase-two-ignition.10818/page-8#post-108491), [this one](https://www.dash.org/forum/threads/testnet-masternode-guide-for-fedora-centos-rhel.11950/), and [this one](https://www.dash.org/forum/threads/12-1-testnet-testing-phase-two-ignition.10818/page-6#post-106852) (I don't announce every test build)
+* You can find many of my announcements in the Dash Forums such as [this one](https://www.dash.org/forum/threads/12-1-testnet-testing-phase-two-ignition.10818/page-8#post-108491), [this one](https://www.dash.org/forum/threads/testnet-masternode-guide-for-fedora-centos-rhel.11950/), and [this one](https://www.dash.org/forum/threads/12-1-testnet-testing-phase-two-ignition.10818/page-6#post-106852) ***(I don't announce every test build)***
+* Three month (end of cycle) status report
 
-Aspirationally, I strive to...
+##### Aspirationally, I strive to...
 
 * Drive Dash Core into Fedora's formal release process and official repositories
 * Drive the build process into the Dash Core Team's formal release processes
 * Expand the set of packages beyond core, for example, the Electrum wallet, Sentinel, etc.
-* Make Dash Core SELinux-friendly (security enhanced linux)
+* Make Dash Core [SELinux-friendly](https://en.wikipedia.org/wiki/Security-Enhanced_Linux) (security enhanced linux)
 * Contribute documentation as needed (see examples above)
 
 ### Schedule
@@ -98,6 +105,8 @@ ongoing and indefinite. There is no "end date" to this effort, of course.
 
 ### Budget
 
+What is being asked is a modest offset. A small patronage, if you will.
+
 I use a personal linux machine (and virtualization), and several VPS instances
 for development, packaging, and testing. These have their cost, but it is not
 extreme. If accepted into the Fedora build system, some build costs will be
@@ -108,23 +117,24 @@ less critical side benefit. Local personal testing will continue though.
 
 **Most of my cost is time. Sometimes, a lot of time.**
 
+***What are my costs for these "release engineering" efforts?***
 * Hard costs:
-  - Personal developer laptop: $0 for now
-  - VPS instances for testing: 3 x $5 per month
-* Time: est. ave. 10 hours a week at $50 per hour, let's call it $2000 per month
+  - Personal developer laptop
+  - ~3 VPS instances for testing
+* Time: 10+ hours a week
 
-The above calculatoin easily ballparks $2000 per month on the open market or
-approximately 215 DASH / month as of this writing. But, for now, I am really
-just asking for an offsetting donation of DASH for my time. So I propose...
+***For now, I am really just asking for a very modest cost offset for my
+time<br />So I propose...***
 
 #### Terms
 
-* **450 DASH total**
- * **150 DASH per month**
- * **3 months**
+> ***Three month honorarium/patronage...***
+> * **99 DASH total**
+>  * **33 DASH per month**
+>  * **3 months**
 
-After 3 months, we will examine at how things are going and likely renew with a
-similar proposal.
+> After 3 months, we will examine at how things are going and I will likely
+request to renew with a similar proposal.
 
 ### Closing
 
@@ -133,4 +143,5 @@ on the Red Hat family of linux distributions. The software needs to be
 professional built, tested,  packaged, improved and maintained over time. I am
 providing some of that now and want to continue doing that well into the future.
 The goodwill of the community is compensation enough, but if you can find it in
-you to help monetarily, it would be most welcome. Thank you!
+you to assist throught he budgeting process, it would be most welcome. Thank
+you!
