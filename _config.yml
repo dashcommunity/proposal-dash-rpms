@@ -1,0 +1,8 @@
+title: "Proposal: Dash Core RPM Packaging"
+description: Dash Core for Fedora, CentOS, and Red Hat Enterprise Linux
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
