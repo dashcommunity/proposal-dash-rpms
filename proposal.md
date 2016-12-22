@@ -8,12 +8,14 @@ linux platforms.
 
 ### Overview
 
-This is a request to fund the ongoing process of building, packaging, delivery,
-and maintenance of Dash Core code for the premier family of linux operating
-systems: Red Hat -- Fedora, CentOS and RHEL. I have been building packages for
-this line of operating systems for approximately 8 months now and will continue
-to do so, proposal accepted or not. This is a plea to help fund my efforts as I
-improve and *expand* the scope of what I am already doing.
+This is a request to fund a very modest Dash patronage to help offset some of
+effort associated to the development and process of building, packaging,
+delivery, and maintenance of Dash Core code for the premier family of linux
+operating systems: Red Hat -- Fedora, CentOS and RHEL. I.e., "release
+engineering" for this family of operating systems. I have been building packages
+for this line of operating systems for approximately 8 months now and will
+continue to do so, proposal accepted or not. This is a plea to assist in my
+efforts as I improve and *expand* the scope of what I am already doing.
 
 *...more detail...*
 
@@ -55,8 +57,8 @@ indefinitely and expand in scope.
 ##### Deliverables
 
 * Source packages: <https://github.com/taw00/dashcore-srpms>
-* Binary packages: <https://drive.google.com/open?id=0B0BT-eTEFVLORG03ck1tem1idEE>
-* General usage instruction: <https://drive.google.com/open?id=18qwFkDKfyZhvecuR5kxiIKmPsjPZjFhRY0EsfHYbD7I>
+* Binary packages: <https://keybase.pub/toddwarner/repo/dashcore/>
+* General usage instruction: <https://gist.github.com/taw00/b2382aaabb321b0cf9ce104185e1b3b7>
 * Tailored testnet masternode guidance: <https://gist.github.com/taw00/e978f862ee1ad66722e16bcc8cf18ca5>
 * You can find many of my announcements in the Dash Forums such as [this one](https://www.dash.org/forum/threads/12-1-testnet-testing-phase-two-ignition.10818/page-8#post-108491), [this one](https://www.dash.org/forum/threads/testnet-masternode-guide-for-fedora-centos-rhel.11950/), and [this one](https://www.dash.org/forum/threads/12-1-testnet-testing-phase-two-ignition.10818/page-6#post-106852) ***(I don't announce every test build)***
 * Three month (end of cycle) status report
@@ -66,7 +68,7 @@ indefinitely and expand in scope.
 * Drive Dash Core into Fedora's formal release process and official repositories
 * Drive the build process into the Dash Core Team's formal release processes
 * Expand the set of packages beyond core, for example, the Electrum wallet, Sentinel, etc.
-* Make Dash Core SELinux-friendly (security enhanced linux)
+* Make Dash Core [SELinux-friendly](https://en.wikipedia.org/wiki/Security-Enhanced_Linux) (security enhanced linux)
 * Contribute documentation as needed (see examples above)
 
 ### Schedule
@@ -103,6 +105,8 @@ ongoing and indefinite. There is no "end date" to this effort, of course.
 
 ### Budget
 
+What is being asked is a modest offset. A small patronage, if you will.
+
 I use a personal linux machine (and virtualization), and several VPS instances
 for development, packaging, and testing. These have their cost, but it is not
 extreme. If accepted into the Fedora build system, some build costs will be
@@ -113,30 +117,24 @@ less critical side benefit. Local personal testing will continue though.
 
 **Most of my cost is time. Sometimes, a lot of time.**
 
-***What would the estimated actual "cost" or "value" be for what I am doing?***
+***What are my costs for these "release engineering" efforts?***
 * Hard costs:
-  - Personal developer laptop: $0 for now
-  - VPS instances for testing: 3 x $5 per month
-* Time: est. ave. 10 hours a week at $50 per hour, let's call it $2000 per month
+  - Personal developer laptop
+  - ~3 VPS instances for testing
+* Time: 10+ hours a week
 
-This is "release engineering" work. For those unfamiliar, release engineering is
-a full time position that does exactly what I am describing.
-
-The above calculation easily ballparks $2000 per month on the open market or
-approximately 202 DASH / month as of this writing.
-
-***But, for now, I am really just asking for an offsetting donation of DASH for
-my time.<br />So I propose...***
+***For now, I am really just asking for a very modest cost offset for my
+time<br />So I propose...***
 
 #### Terms
 
 > ***Three month honorarium/patronage...***
-> * **225 DASH total**
->  * **75 DASH per month**
+> * **99 DASH total**
+>  * **33 DASH per month**
 >  * **3 months**
 
-> After 3 months, we will examine at how things are going and I will likely ask
-to renew with a similar proposal.
+> After 3 months, we will examine at how things are going and I will likely
+request to renew with a similar proposal.
 
 ### Closing
 
@@ -145,4 +143,5 @@ on the Red Hat family of linux distributions. The software needs to be
 professional built, tested,  packaged, improved and maintained over time. I am
 providing some of that now and want to continue doing that well into the future.
 The goodwill of the community is compensation enough, but if you can find it in
-you to help monetarily, it would be most welcome. Thank you!
+you to assist throught he budgeting process, it would be most welcome. Thank
+you!
