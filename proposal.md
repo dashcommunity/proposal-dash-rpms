@@ -124,7 +124,7 @@ less critical side benefit. Local personal testing will continue though.
 * Time: 10+ hours a week
 
 ***For now, I am really just asking for a very modest cost offset for my
-time<br />So I propose...***
+time. Therefore, I propose...***
 
 #### Terms
 
