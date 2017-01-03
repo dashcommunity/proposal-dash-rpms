@@ -56,9 +56,9 @@ indefinitely and expand in scope.
 
 ##### Deliverables
 
-* Source packages: <https://github.com/taw00/dashcore-srpms>
-* Binary packages: <https://keybase.pub/toddwarner/repo/dashcore/>
-* General usage instruction: <https://gist.github.com/taw00/b2382aaabb321b0cf9ce104185e1b3b7>
+* Source packages: <https://github.com/taw00/dashcore-rpm>
+* Binary packages (instruction at above link): <https://keybase.pub/toddwarner/repo/dashcore/>
+* General usage instruction: <https://github.com/taw00/dashcore-rpm/blob/master/README.dashcore-binaries.md>
 * Tailored testnet masternode guidance: <https://gist.github.com/taw00/e978f862ee1ad66722e16bcc8cf18ca5>
 * You can find many of my announcements in the Dash Forums such as [this one](https://www.dash.org/forum/threads/12-1-testnet-testing-phase-two-ignition.10818/page-8#post-108491), [this one](https://www.dash.org/forum/threads/testnet-masternode-guide-for-fedora-centos-rhel.11950/), and [this one](https://www.dash.org/forum/threads/12-1-testnet-testing-phase-two-ignition.10818/page-6#post-106852)<br />*(I don't announce every test build)*
 * Three month (end of cycle) status report
