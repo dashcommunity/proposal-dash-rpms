@@ -1,4 +1,4 @@
-# Proposal:<br />Dash Core for Fedora, CentOS, and RHEL
+# Proposal:<br />Dash Core for Fedora, CentOS, and Red Hat Enterprise Linux
 
 Dash Core software professionally packaged, tested, maintained, and delivered
 for the [Fedora](http://fedoraproject.org/), [CentOS](https://www.centos.org/),
